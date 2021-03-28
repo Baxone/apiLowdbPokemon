@@ -1,0 +1,8 @@
+GET http://localhost:3000/pokemons
+
+####
+GET http://localhost:3000/pokemons/1
+
+###
+GET http://localhost:3000/pokemons/search/charmander
+
